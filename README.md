@@ -4,7 +4,7 @@ Our course project produced an intelligent image scaling system based on seam-ca
 
 In the project, I was responsible for writing and testing all the code for the GUI, collaborating on module communication between front-end and back-end functions, and writing reports.
 
-## contributors
+## Contributors
 The project was a joint effort by Yijia Wang, Jingjun Xu, and me.
 
 <a href="https://github.com/Wendy-Ying">
